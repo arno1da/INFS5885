@@ -1,0 +1,26 @@
+{
+  "name": "group-project",
+  "version": "1.0.0",
+  "description": "This will contain a dummy website for our group project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aa-neg/INFS5885.git"
+  },
+  "author": "Arnold Agus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aa-neg/INFS5885/issues"
+  },
+  "homepage": "https://github.com/aa-neg/INFS5885#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
