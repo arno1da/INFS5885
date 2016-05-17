@@ -168,3 +168,9 @@ footer {
   background-size: cover;
 }
 
+.header-banner  {
+
+  background:url(images/header-banner.jpg);
+  display: inline-block;
+
+}
