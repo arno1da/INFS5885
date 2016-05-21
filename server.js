@@ -9,5 +9,5 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
 app.use(express.static(__dirname + '/app'));
 var port = process.env.PORT || 8081;
-app.list(port);
+app.listen(port);
 
